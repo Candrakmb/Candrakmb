@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Candra Kusuma Muhammad Bimantara
-- 👀 I’m interested in Front-end developer
-- 🌱 I’m currently learning front-end web development learning path
-- 💞️ I’m looking to collaborate on movie catalog project
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning web development learning path
 - 📫 How to reach me 
 <a href="https://www.instagram.com/candra_kmb/" target="_blank">Instagram</a>,  
 <a href="https://www.linkedin.com/in/candra-kusuma-muhammad-bimantara-279763209/" target="_blank">LinkedIn</a>, and 
